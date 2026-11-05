@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article."
+title: "Maximum entropy distributions of dark matter in ΛCDM cosmology"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Zhijie
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23990714"
+    description: "Zenodo archive of the data files"
+license: CC-BY-4.0
+version: "2.0"
+date-released: "2026-11-05"
+keywords:
+  - "dark matter"
+  - "maximum entropy"
+  - "velocity distribution"
+  - "N-body simulation"
+  - "halo"
+  - "cosmology"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xu
+      given-names: Zhijie
+  title: "Maximum entropy distributions of dark matter in ΛCDM cosmology"
+  journal: "Astronomy & Astrophysics"
+  volume: 675
+  start: "A92"
+  year: 2023
+  doi: "10.1051/0004-6361/202346429"
+  url: "https://arxiv.org/abs/2110.03126"
